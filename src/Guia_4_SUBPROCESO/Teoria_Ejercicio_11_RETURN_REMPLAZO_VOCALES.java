@@ -3,7 +3,7 @@
  * To change this template file,choose Tools | Templates
  * and open the template in the editor.
  */
-package guia_3;
+package Guia_4_SUBPROCESO;
 
 import java.util.Scanner;
 
